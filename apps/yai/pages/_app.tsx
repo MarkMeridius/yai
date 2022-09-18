@@ -8,7 +8,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Welcome to yai!</title>
       </Head>
-      <main className="bg-slate-700 h-screen w-screen">
+      <main className="bg-slate-800 h-screen w-screen">
         <Component {...pageProps} />
       </main>
     </>
