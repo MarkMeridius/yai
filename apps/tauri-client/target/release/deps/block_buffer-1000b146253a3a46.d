@@ -1,0 +1,8 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/block_buffer-1000b146253a3a46.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libblock_buffer-1000b146253a3a46.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/block_buffer-1000b146253a3a46.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/block-buffer-0.10.3/src/sealed.rs:

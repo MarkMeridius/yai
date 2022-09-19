@@ -1,0 +1,12 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/cocoa-bd1c19a6569d1c27.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libcocoa-bd1c19a6569d1c27.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/cocoa-bd1c19a6569d1c27.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs:

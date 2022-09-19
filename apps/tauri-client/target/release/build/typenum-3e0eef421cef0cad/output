@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/build/typenum-3e0eef421cef0cad/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/build/typenum-3e0eef421cef0cad/out/op.rs

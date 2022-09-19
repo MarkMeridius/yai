@@ -1,0 +1,11 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/string_cache-101778f6ca8bf6d0.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/libstring_cache-101778f6ca8bf6d0.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/string_cache-101778f6ca8bf6d0.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs:

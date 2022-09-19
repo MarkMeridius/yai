@@ -1,0 +1,11 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/tauri_codegen-031f2774dc82bfaf.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/context.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/embedded_assets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/blake3_reference.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/libtauri_codegen-031f2774dc82bfaf.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/context.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/embedded_assets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/blake3_reference.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/tauri_codegen-031f2774dc82bfaf.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/context.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/embedded_assets.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/blake3_reference.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/context.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/embedded_assets.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/mod.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.1.1/src/vendor/blake3_reference.rs:

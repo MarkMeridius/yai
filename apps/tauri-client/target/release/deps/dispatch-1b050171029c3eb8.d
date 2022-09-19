@@ -1,0 +1,12 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/dispatch-1b050171029c3eb8.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libdispatch-1b050171029c3eb8.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/dispatch-1b050171029c3eb8.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs:
