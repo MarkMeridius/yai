@@ -1,0 +1,62 @@
+{
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/tauri-client/src",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nrwl/web:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "outputPath": "dist/apps/tauri-client",
+        "compiler": "babel",
+        "index": "apps/tauri-client/src/index.html",
+        "baseHref": "/",
+        "main": "apps/tauri-client/src/main.ts",
+        "polyfills": "apps/tauri-client/src/polyfills.ts",
+        "tsConfig": "apps/tauri-client/tsconfig.app.json",
+        "assets": [
+          "apps/tauri-client/src/favicon.ico",
+          "apps/tauri-client/src/assets"
+        ],
+        "styles": ["apps/tauri-client/src/styles.css"],
+        "scripts": []
+      },
+      "configurations": {
+        "production": {
+          "fileReplacements": [
+            {
+              "replace": "apps/tauri-client/src/environments/environment.ts",
+              "with": "apps/tauri-client/src/environments/environment.prod.ts"
+            }
+          ],
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nrwl/web:dev-server",
+      "options": {
+        "buildTarget": "tauri-client:build"
+      },
+      "configurations": {
+        "production": {
+          "buildTarget": "tauri-client:build:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/tauri-client/**/*.ts"]
+      }
+    }
+  }
+}
