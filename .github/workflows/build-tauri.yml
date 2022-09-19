@@ -27,7 +27,7 @@ jobs:
       - name: install app dependencies and build it
         run: npm ci && npx nx export yai
       - uses: tauri-apps/tauri-action@v0
-        inputs:
+        with:
           projectPath: apps/tauri-client
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
