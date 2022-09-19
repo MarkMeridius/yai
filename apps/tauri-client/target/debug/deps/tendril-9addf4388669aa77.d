@@ -1,0 +1,13 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/tendril-9addf4388669aa77.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/libtendril-9addf4388669aa77.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/tendril-9addf4388669aa77.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs:

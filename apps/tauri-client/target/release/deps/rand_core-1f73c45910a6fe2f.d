@@ -1,0 +1,12 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/rand_core-1f73c45910a6fe2f.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/block.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/impls.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/le.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/os.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/librand_core-1f73c45910a6fe2f.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/block.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/impls.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/le.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/os.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/rand_core-1f73c45910a6fe2f.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/block.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/impls.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/le.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/os.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/error.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/block.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/impls.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/le.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.5.1/src/os.rs:

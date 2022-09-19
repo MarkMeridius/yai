@@ -1,0 +1,13 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/sha2-3804261dd0a2c090.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/libsha2-3804261dd0a2c090.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/sha2-3804261dd0a2c090.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs:

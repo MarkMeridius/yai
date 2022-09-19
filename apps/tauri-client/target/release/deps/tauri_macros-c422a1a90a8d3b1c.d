@@ -1,0 +1,11 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libtauri_macros-c422a1a90a8d3b1c.dylib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/handler.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/wrapper.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command_module.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/runtime.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/context.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/tauri_macros-c422a1a90a8d3b1c.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/handler.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/wrapper.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command_module.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/runtime.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/context.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/mod.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/handler.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command/wrapper.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/command_module.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/runtime.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.1.1/src/context.rs:

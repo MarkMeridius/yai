@@ -1,0 +1,12 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libthiserror_impl-9ba7ad3d05b93254.dylib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/thiserror_impl-9ba7ad3d05b93254.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs:

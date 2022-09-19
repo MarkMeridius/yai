@@ -1,0 +1,12 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/xattr-a26cc666559c7c33.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/libxattr-a26cc666559c7c33.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/release/deps/xattr-a26cc666559c7c33.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs:

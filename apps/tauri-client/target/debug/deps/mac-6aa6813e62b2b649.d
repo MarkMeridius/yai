@@ -1,0 +1,14 @@
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/mac-6aa6813e62b2b649.rmeta: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/libmac-6aa6813e62b2b649.rlib: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/Users/finn/Documents/GitHub/yai/apps/tauri-client/target/debug/deps/mac-6aa6813e62b2b649.d: /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs:
+/Users/finn/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs:
