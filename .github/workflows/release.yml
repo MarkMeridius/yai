@@ -1,6 +1,9 @@
 name: "Release Yai"
 
-on: pull_request
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   create-release:
